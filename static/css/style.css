@@ -1,0 +1,32 @@
+.top-banner {
+    width: 100%;
+    background-color: rgba(33, 37, 41, 1);
+}
+
+.search-bar {
+    width: 60%;
+    margin-bottom: 3em;
+}
+
+.output-box {
+    margin-top: 6em;
+    padding: 0 1em 1em 0;
+    background-color: rgba(33, 37, 41, 1);
+    width: 45%;
+    border-radius: 10px;
+}
+
+.tweet-text {
+    padding: 1.5em 2em 1.5em 2em;
+    color: rgb(232, 232, 232);
+    min-height: 10em;
+}
+
+.output-sep {
+    color: rgb(232, 232, 232);
+    height: 2px;
+}
+
+.twitter-share-button {
+
+}
